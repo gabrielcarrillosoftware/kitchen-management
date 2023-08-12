@@ -82,22 +82,22 @@ Password: admin
 - Home 
 ![img](1.png)
 
--
+- Login
 ![img](2.png)
 
--
+- Welcome
 ![img](3.png)
 
--
-![img](4.png)
+- Customers
+![img](4..png)
 
--
+- General Storehouse
 ![img](5.png)
 
--
+- Recipe
 ![img](6.png)
 
--
+- kitchen
 ![img](7.png)
 
 - Entity Relationship Diagram
