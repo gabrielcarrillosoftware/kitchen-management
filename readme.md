@@ -1,7 +1,7 @@
 
 # Project Title
 
-Restaurant Kitchen Management System
+Kitchen Management System for restaurants
 
 ## Authors
 
